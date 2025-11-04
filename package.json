@@ -1,0 +1,27 @@
+{
+  "name": "expo-kit-plus",
+  "version": "0.1.0",
+  "description": "A reusable Expo React Native boilerplate with Tailwind, ESLint, Prettier, Jest, Fastlane, and optional CI templates.",
+  "bin": {
+    "create-expo-kit-plus": "./scripts/create-expo-kit-plus.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "expo",
+    "react-native",
+    "boilerplate",
+    "template",
+    "ci",
+    "github-actions",
+    "gitlab-ci",
+    "fastlane",
+    "eslint",
+    "tailwind"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.16"
+  }
+}
